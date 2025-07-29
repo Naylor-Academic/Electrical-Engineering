@@ -1,6 +1,6 @@
 # Electrical-Engineering
 
-<a href="https://naylor-academic.github.io/Eng-Electrical/">Library</a>
+<a href="https://naylor-academic.github.io/Electrical-Engineering/">Library</a>
 
 <h1>Introdução:</h1> 
 
